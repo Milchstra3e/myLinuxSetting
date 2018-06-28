@@ -1,4 +1,5 @@
 # install oh-my-zsh
+sudo apt-get install curl
 sudo curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 
 # install powerline
