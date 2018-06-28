@@ -1,7 +1,7 @@
 # myLinuxSetting
 my linux setting - ubuntu(ubuntu 16.04)
 
-# install
+# Install
 - install_1.sh
 - install_2.sh
 
