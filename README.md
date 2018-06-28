@@ -14,3 +14,5 @@ oh-my-zsh: https://nolboo.kim/blog/2015/08/21/oh-my-zsh/
 powerline: http://seungdols.tistory.com/567
 
 auto-suggestion: http://the-illusionist.me/49
+
+vim-setting: http://mjae.kr/2016/10/01/vimlinux-1-vim%EC%9D%84-%EC%99%9C-%EC%93%B0%EB%83%90%EA%B3%A0/
