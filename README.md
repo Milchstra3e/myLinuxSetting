@@ -18,3 +18,5 @@ auto-suggestion: http://the-illusionist.me/49
 vim-setting: http://mjae.kr/2016/10/01/vimlinux-1-vim%EC%9D%84-%EC%99%9C-%EC%93%B0%EB%83%90%EA%B3%A0/
 
 youcompleteme: https://johngrib.github.io/wiki/vim-ycm-python3/
+
+server setting: http://m.egloos.zum.com/proxyolism/v/1810584
